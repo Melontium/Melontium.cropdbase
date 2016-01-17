@@ -1,0 +1,6 @@
+id: tomato
+uuid: d4f704b5-8314-4fb8-93ad-a77922540fc2
+label: 'Tomato'
+data.days_to_maturity: 60
+data.frost_tolerance: 0
+
